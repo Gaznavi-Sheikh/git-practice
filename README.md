@@ -1,5 +1,4 @@
 # git-practice
-This is Gaznavi's Repository.
-Gaznavis practice on this Repository.
-He is very good boy.
-Hello how are you
+This is Gaznavi's Repository.\n
+Gaznavis practice on this Repository.\n
+Hello! How are you....
